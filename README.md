@@ -1,2 +1,1 @@
-# Bachelor-Thesis
- A repository that contains my Bachelor Thesis
+![title](assets/title_page.png)
